@@ -1,3 +1,1 @@
-Very First you need to open this project in Eclips or Also you can open it into Vs-code.
-Make Sure Run Server First then client.
-that's it Enjoy...
+This is my first every java project. which i have developed but last.
